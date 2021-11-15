@@ -1,0 +1,58 @@
+{
+	"name": "@sami-p/feedbackform",
+	"versions": {
+		"1.0.0": {
+			"name": "@sami-p/feedbackform",
+			"version": "1.0.0",
+			"description": "",
+			"main": "FeedbackForm.js",
+			"publishConfig": {
+				"registry": "http://localhost:4873"
+			},
+			"dependencies": {
+				"@emotion/react": "^11.5.0",
+				"@emotion/styled": "^11.3.0",
+				"@mui/material": "^5.1.0",
+				"react": "^17.0.2",
+				"validate.js": "^0.13.1"
+			},
+			"scripts": {
+				"test": "echo \"Error: no test specified\" && exit 1"
+			},
+			"keywords": [],
+			"author": "",
+			"license": "ISC",
+			"types": "./FeedbackForm.d.ts",
+			"gitHead": "f6227e70837710d7bd37b01a0b436e2fd8b0aed8",
+			"_id": "@sami-p/feedbackform@1.0.0",
+			"_nodeVersion": "16.9.1",
+			"_npmVersion": "8.0.0",
+			"dist": {
+				"integrity": "sha512-Somef6frI14v++j6sd5A7IlXjl1B3cZnoUb3OsV8jJOd6QCfn14T1Icl1ynmf5BKNqJoB2SUAlneWvInUYOwkA==",
+				"shasum": "605590a25aa2dcef8fb4c66e87a0756a237007eb",
+				"tarball": "http://localhost:4873/@sami-p/feedbackform/-/@sami-p/feedbackform-1.0.0.tgz"
+			},
+			"contributors": []
+		}
+	},
+	"time": {
+		"modified": "2021-11-15T12:23:58.960Z",
+		"created": "2021-11-15T12:23:58.960Z",
+		"1.0.0": "2021-11-15T12:23:58.960Z"
+	},
+	"users": {},
+	"dist-tags": {
+		"latest": "1.0.0"
+	},
+	"_uplinks": {},
+	"_distfiles": {},
+	"_attachments": {
+		"feedbackform-1.0.0.tgz": {
+			"shasum": "605590a25aa2dcef8fb4c66e87a0756a237007eb",
+			"version": "1.0.0"
+		}
+	},
+	"_rev": "3-8af12e4cb007c329",
+	"_id": "@sami-p/feedbackform",
+	"readme": "ERROR: No README data found!"
+}

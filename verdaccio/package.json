@@ -1,0 +1,16 @@
+{
+  "name": "verdaccio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "verdaccio --config ./config.yaml"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "verdaccio": "^5.2.2"
+  }
+}
