@@ -2,12 +2,12 @@
 
 2021 Thesis work for Tampere University of Applied Sciences
 
-### Steps to run
+## Steps to run
 
 #### Start Verdaccio
 Run 'npm start' from /verdaccio. Once active, you can view the web interface at localhost port 4873.
 
-#### Start Exoress
+#### Start Express
 Run "npm start" from /express.
 
 #### Install & Start both apps
